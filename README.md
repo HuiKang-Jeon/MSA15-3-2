@@ -84,7 +84,7 @@
   다양한 화면 크기에서도 최적의 UI를 제공하도록 반응형 구조 적용
 
 <details>
-<summary>🎥 메인 페이지 시연 영상 보기</summary>
+<summary><span style="color:#1f6feb;">🎥 메인 페이지 시연 영상 보기</span></summary>
 
 <br>
 
