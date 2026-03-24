@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/5977933d-d931-40ce-bf71-aea57d2bcc65
 <div align="center">
 
 <img src="https://img.shields.io/badge/🐾_PETHOTEL-FF6B6B?style=for-the-badge&logoColor=white" height="50"/>
@@ -66,6 +68,10 @@
 ### 🎨 전휘강 — 메인 페이지 · 예약 · AI 기능
 
 #### 🏠 메인 페이지
+
+https://github.com/user-attachments/assets/673c5531-5e52-4b2e-94dc-960efb84a173
+
+
 - 서비스 소개 카드 렌더링 및 예약 페이지 이동 연결
 - **공지사항 모달** — 최신 공지 팝업 표시
 - **실시간 CCTV 모달** — 실시간 모니터링 화면 모달 UI
