@@ -66,67 +66,78 @@
 
 ### 🎨 전휘강 — 메인 페이지 · 예약 · AI 기능
 
+#### 🏠 메인 페이지
+
+- 서비스 소개 카드 렌더링 및 예약 페이지 이동 연결
 
 <details>
-<summary>🏠 메인 페이지</summary>
+<summary>🎥 메인 페이지 시연 영상 보기</summary>
 
 <br>
 
 https://github.com/user-attachments/assets/663db0f1-7291-4319-8b36-2de1e3017cc4
 
-- 서비스 소개 카드 렌더링 및 예약 페이지 이동 연결
-
 </details>
 
 
+#### 🪟 메인 페이지 모달 기능
+
+- **공지사항 모달** — 최신 공지 팝업 표시  
+- **실시간 CCTV 모달** — 실시간 모니터링 화면 모달 UI  
+- **AI 챗봇 모달** — OpenAI 기반 실시간 상담 챗봇 연동  
+
 <details>
-<summary>🪟 메인 페이지 모달 기능</summary>
+<summary>🎥 모달 기능 시연 영상 보기</summary>
 
 <br>
 
 https://github.com/user-attachments/assets/786a7572-3c4a-4c99-ad6a-8c0c5c59878d
 
-- **공지사항 모달** — 최신 공지 팝업 표시
-- **실시간 CCTV 모달** — 실시간 모니터링 화면 모달 UI
-- **AI 챗봇 모달** — OpenAI 기반 실시간 상담 챗봇 연동
-
 </details>
 
 
+#### 📅 예약 페이지
+
+- 날짜 · 견종 · 가격 필터 기반 객실 검색 기능  
+- 중복 예약 방지 로직 적용  
+- 예약 상태 실시간 반영  
+
 <details>
-<summary>📅 예약 페이지</summary>
+<summary>🎥 예약 페이지 시연 영상 보기</summary>
 
 <br>
 
 https://github.com/user-attachments/assets/199504df-023a-47a1-b8fc-934c98c25fa2
 
-- 날짜 · 견종 · 가격 필터 기반 객실 검색 기능
-- 중복 예약 방지 로직 적용
-- 예약 상태 실시간 반영
-
 </details>
 
 
+#### 📋 예약 상세 페이지
+
+- 예약 내역 상세 조회 UI  
+- 상태 관리 및 데이터 연동 처리  
+
 <details>
-<summary>📋 예약 상세 페이지</summary>
+<summary>🎥 예약 상세 시연 영상 보기</summary>
 
 <br>
 
-- 예약 내역 상세 조회 UI
-- 상태 관리 및 데이터 연동 처리
+(영상 추가 예정)
 
 </details>
 
 
+#### 🏨 소개 페이지
+
+- 서비스 · 시설 · 팀 정보를 카드형 UI로 구성  
+- 예약 페이지로 자연스럽게 연결되는 CTA 흐름 설계  
+
 <details>
-<summary>🏨 소개 페이지</summary>
+<summary>🎥 소개 페이지 시연 영상 보기</summary>
 
 <br>
 
 https://github.com/user-attachments/assets/2273dbce-c6e1-4d28-9ff9-b50041d96993
-
-- 서비스 · 시설 · 팀 정보를 카드형 UI로 구성
-- 예약 페이지로 자연스럽게 연결되는 CTA 흐름 설계
 
 </details>
 
