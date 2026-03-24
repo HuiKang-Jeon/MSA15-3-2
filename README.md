@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/5977933d-d931-40ce-bf71-aea57d2bcc65
 <div align="center">
 
 <img src="https://img.shields.io/badge/🐾_PETHOTEL-FF6B6B?style=for-the-badge&logoColor=white" height="50"/>
