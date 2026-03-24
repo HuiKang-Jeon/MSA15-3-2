@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/🐾_PETHOTEL-FF6B6B?style=for-the-badge&logoColor=white" height="50"/>
 
 # 🐕 PETHOTEL — 반려견 호텔 예약·관리 플랫폼
-> 반려견과 함께하는 특별한 순간을 위한 스마트 호텔 예약 서비스
+> 반려견과 함께하는 특별한 순간을 위한 스마트 호텔 예약 서비스 🏨🐶
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -51,48 +51,18 @@
 
 ## 👥 팀원 및 역할 분담
 
-<table>
-  <tr>
-    <th align="center">전휘강</th>
-    <th align="center">나승현</th>
-    <th align="center">유지상</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🎨 UI/UX · 예약 시스템 · AI 기능</b>
-    </td>
-    <td align="center">
-      <b>🛡 인증 · 결제 · 마이페이지</b>
-    </td>
-    <td align="center">
-      <b>📋 공지사항 · 관리자 전체</b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      메인 페이지 · 예약 페이지<br/>
-      예약 상세 페이지 · 소개 페이지<br/>
-      CCTV 모달 · 공지사항 모달<br/>
-      AI 챗봇 상담
-    </td>
-    <td>
-      로그인 페이지<br/>
-      회원가입 페이지<br/>
-      카카오페이 결제 시스템<br/>
-      마이페이지
-    </td>
-    <td>
-      공지사항 페이지<br/>
-      관리자 페이지 전체
-    </td>
-  </tr>
-</table>
+| 팀원 | 역할 | 주요 기능 |
+|------|------|-----------|
+| 전휘강 | 🎨 UI/UX · 예약 시스템 · AI 기능 | 메인 페이지, 예약 페이지, 예약 상세 페이지, CCTV 모달, AI 챗봇 |
+| 나승현 | 🛡 인증 · 결제 · 마이페이지 | 로그인/회원가입, 카카오페이 결제, 마이페이지 |
+| 유지상 | 📋 공지사항 · 관리자 시스템 | 공지사항 페이지, 관리자 페이지 전체 |
 
 ---
 
 ## ✨ 기능 상세
 
-### 🎨 전휘강 — 메인 페이지 · 예약 · AI 기능
+<details>
+<summary>🎨 전휘강 — 메인 페이지 · 예약 · AI 기능</summary>
 
 #### 🏠 메인 페이지
 - 서비스 소개 카드 렌더링 및 예약 페이지 이동 연결
@@ -113,9 +83,10 @@
 - 서비스 · 시설 · 팀 정보를 카드형 UI로 구성
 - 예약 페이지로 자연스럽게 연결되는 CTA 흐름 설계
 
----
+</details>
 
-### 🛡 나승현 — 인증 · 결제 · 마이페이지
+<details>
+<summary>🛡 나승현 — 인증 · 결제 · 마이페이지</summary>
 
 #### 🔐 로그인 / 회원가입 페이지
 - 일반 로그인 및 소셜 로그인 (카카오 / 네이버 OAuth2)
@@ -132,9 +103,10 @@
 - 반려견 등록 · 수정 · 삭제 (건강 증명서 파일 업로드 포함)
 - 예약 내역 조회 및 상태 관리
 
----
+</details>
 
-### 📋 유지상 — 공지사항 · 관리자 시스템
+<details>
+<summary>📋 유지상 — 공지사항 · 관리자 시스템</summary>
 
 #### 📢 공지사항 페이지
 - 공지사항 목록 조회 및 상세 페이지 구성
@@ -148,52 +120,9 @@
 - 반려견 현황 및 펫 상태 관리
 - 서비스 항목 관리
 
----
-
-## 🗄 DB 설계 주요 테이블
-
-```
-users          — 회원 정보 (소셜 로그인 포함)
-user_auth      — 권한 관리 (ROLE_USER / ROLE_ADMIN)
-pets           — 반려견 정보 및 건강 증명서
-hotelrooms     — 객실 정보 및 예약 상태
-reservations   — 예약 내역
-notice         — 공지사항
-coupon         — 쿠폰 및 할인 관리
-```
+</details>
 
 ---
 
-## 📂 프로젝트 구조
-
-```
-src/
-├── main/
-│   ├── java/com/aloha/project/
-│   │   ├── controller/       # REST API 컨트롤러
-│   │   │   ├── MainController.java
-│   │   │   ├── RoomApiController.java
-│   │   │   ├── NoticeController.java
-│   │   │   ├── AdminController.java
-│   │   │   ├── KakaoPayController.java
-│   │   │   ├── MyPageController.java
-│   │   │   └── ChatController.java
-│   │   ├── service/          # 비즈니스 로직
-│   │   ├── mapper/           # MyBatis 매퍼
-│   │   ├── handler/          # Spring Security 핸들러
-│   │   └── filter/           # JWT 필터
-│   └── resources/
-│       ├── static/
-│       │   ├── css/          # 스타일시트
-│       │   ├── js/           # 클라이언트 스크립트
-│       │   └── img/          # 이미지 리소스
-│       └── application.properties
-```
-
----
-
-<div align="center">
-
-**🐾 PETHOTEL — 반려견과 함께하는 특별한 휴식 🐾**
-
-</div>
+<details>
+<summary>🗄 DB 설계 주요 테이블</summary>
