@@ -102,16 +102,6 @@ https://github.com/user-attachments/assets/786a7572-3c4a-4c99-ad6a-8c0c5c59878d
 - 중복 예약 방지 로직 적용  
 - 예약 상태 실시간 반영  
 
-<details>
-<summary>🎥 예약 페이지 시연 영상 보기</summary>
-
-<br>
-
-https://github.com/user-attachments/assets/199504df-023a-47a1-b8fc-934c98c25fa2
-
-</details>
-
-
 #### 📋 예약 상세 페이지
 
 - 예약 내역 상세 조회 UI  
@@ -122,7 +112,7 @@ https://github.com/user-attachments/assets/199504df-023a-47a1-b8fc-934c98c25fa2
 
 <br>
 
-(영상 추가 예정)
+https://github.com/user-attachments/assets/199504df-023a-47a1-b8fc-934c98c25fa2
 
 </details>
 
