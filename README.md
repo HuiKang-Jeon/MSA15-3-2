@@ -84,7 +84,7 @@
   다양한 화면 크기에서도 최적의 UI를 제공하도록 반응형 구조 적용
 
 <details>
-<summary><span style="color:#1f6feb;">🎥 메인 페이지 시연 영상 보기</span></summary>
+<summary><b>🎥 메인 페이지 시연 영상 보기</b></summary>
 
 <br>
 
@@ -115,7 +115,7 @@ https://github.com/user-attachments/assets/663db0f1-7291-4319-8b36-2de1e3017cc4
   - Quick Question UI 제공으로 사용자 입력 편의성 향상
 
 <details>
-<summary><span style="color:#1f6feb;">🎥 모달 기능 시연 영상 보기</span></summary>
+<summary><b>🎥 모달 기능 시연 영상 보기</b></summary>
 
 <br>
 
@@ -158,7 +158,7 @@ https://github.com/user-attachments/assets/786a7572-3c4a-4c99-ad6a-8c0c5c59878d
   - 선택된 정보 기반으로 예약 데이터 생성
 
 <details>
-<summary><span style="color:#1f6feb;">🎥 예약 상세 시연 영상 보기</span></summary>
+<summary><b>🎥 예약 상세 시연 영상 보기</b></summary>
 
 <br>
 
@@ -185,7 +185,7 @@ https://github.com/user-attachments/assets/199504df-023a-47a1-b8fc-934c98c25fa2
   - 다양한 디바이스 환경에서도 가독성이 유지되도록 반응형 적용
 
 <details>
-<summary><span style="color:#1f6feb;">🎥 소개 페이지 시연 영상 보기</span></summary>
+<summary><b>🎥 소개 페이지 시연 영상 보기</b></summary>
 
 <br>
 
