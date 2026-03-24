@@ -196,7 +196,7 @@ https://github.com/user-attachments/assets/2273dbce-c6e1-4d28-9ff9-b50041d96993
 ### 🛡 나승현 — 인증 · 결제 · 마이페이지
 
 #### 🔐 로그인 / 회원가입 페이지
-- 일반 로그인 및 소셜 로그인 (카카오 / 네이버 OAuth2)
+- 일반 로그인 및 소셜 로그인 (카카오 / 구글 / 네이버 OAuth2)
 - Spring Security 기반 인증 처리
 - JWT 토큰 발급 및 필터 적용
 
