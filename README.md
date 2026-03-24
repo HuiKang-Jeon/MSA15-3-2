@@ -3,6 +3,7 @@
 <img src="https://img.shields.io/badge/🐾_PETHOTEL-FF6B6B?style=for-the-badge&logoColor=white" height="50"/>
 
 # 🐕 PETHOTEL — 반려견 호텔 예약·관리 플랫폼
+![mainpage](https://github.com/user-attachments/assets/d52472c8-6d4f-449b-b194-40eba2662680)
 
 > 반려견과 함께하는 특별한 순간을 위한 스마트 호텔 예약 서비스
 
