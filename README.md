@@ -5,7 +5,8 @@
 
 # 🐕 PETHOTEL — 반려견 호텔 예약·관리 플랫폼
 > 반려견과 함께하는 특별한 순간을 위한 스마트 호텔 예약 서비스 🏨🐶
-![Uploading 2메인.png…]()
+<img width="1920" height="1080" alt="2메인" src="https://github.com/user-attachments/assets/83fb9ec6-4926-49dc-8dfa-7bf8f48cdf85" />
+
 
 
 </div>
