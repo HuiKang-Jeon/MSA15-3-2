@@ -193,6 +193,8 @@ https://github.com/user-attachments/assets/2273dbce-c6e1-4d28-9ff9-b50041d96993
 
 </details>
 
+---
+
 ### 🛡 나승현 — 인증 · 결제 · 마이페이지
 
 #### 🔐 로그인 / 회원가입 페이지
