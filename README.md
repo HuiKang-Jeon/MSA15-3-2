@@ -202,16 +202,42 @@ https://github.com/user-attachments/assets/2273dbce-c6e1-4d28-9ff9-b50041d96993
 - Spring Security 기반 인증 처리
 - JWT 토큰 발급 및 필터 적용
 
+https://github.com/user-attachments/assets/d33bd7c6-ca30-40ae-9268-2953586621ce
+
+
+#### 👤 마이페이지
+- 회원 정보 조회 및 수정
+<details>
+<summary><b>🎥 로그인 시연 영상 보기--</b></summary>
+
+<br>
+
+https://github.com/user-attachments/assets/1cad779f-338b-4cca-be60-1978c348e1a9
+
+</details>
+- 반려견 등록 · 수정 · 삭제 (건강 증명서 파일 업로드 포함)
+
+<details>
+<summary><b>🎥 반려견 등록 시연 영상 보기--</b></summary>
+
+<br>
+
+https://github.com/user-attachments/assets/c505c2e8-0594-47e2-810c-a76f784e1ed7
+
+
+</details>
+
+- 예약 내역 조회 및 상태 관리
+
+
+https://github.com/user-attachments/assets/5efb8f86-8508-4578-871c-5dc70f6a9b4c
+
+
+
 #### 💳 카카오페이 결제 시스템
 - 카카오페이 API 연동 결제 흐름 구현
 - 결제 성공 / 실패 / 취소 / 환불 처리
 - 쿠폰 할인 적용 기능
-
-#### 👤 마이페이지
-- 회원 정보 조회 및 수정
-- 반려견 등록 · 수정 · 삭제 (건강 증명서 파일 업로드 포함)
-- 예약 내역 조회 및 상태 관리
-
 ---
 
 ### 📋 유지상 — 공지사항 · 관리자 시스템
