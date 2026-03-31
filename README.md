@@ -246,7 +246,7 @@ https://github.com/user-attachments/assets/038cc3dd-2464-4b5e-b448-123523f12ba9
 - 예약 내역 조회 및 상태 관리
 
 <details>
-<summary><b>🎥 반려견 등록 시연 영상 보기--</b></summary>
+<summary><b>🎥 예약 내역 조회 결제 영상 보기--</b></summary>
 
 <br>
 
