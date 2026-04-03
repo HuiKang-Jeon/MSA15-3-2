@@ -20,8 +20,8 @@
 | 📅 개발 기간 | 2026.01.26 ~ 2026.02.12 |
 | 👥 팀 구성 | 3인 팀 프로젝트 |
 | 🔗 GitHub | [MSA15_3-2 Repository](https://github.com/wjsgnlrkd9822-design/MSA15_3-2.git) |
-| 💡 주요 기능 | 객실 예약, 관리자 페이지, 회원 관리, 카카오페이 결제, AI 챗봇 상담 |
-| 📊 PPT 링크 | (https://docs.google.com/presentation/d/1Y5Kkb03I9_-gr9pW9zMr2519DH7mtc0N/edit?slide=id.p1#slide=id.p1) |
+| 💡 주요 기능 | 객실 예약&nbsp;·&nbsp;관리자 페이지&nbsp;·&nbsp;회원 관리&nbsp;·&nbsp;카카오페이 결제&nbsp;·&nbsp;AI 챗봇 상담 |
+| 📊 PPT 링크 | https://docs.google.com/presentation/d/1Y5Kkb03I9_-gr9pW9zMr2519DH7mtc0N/edit |
 | 🎬 시연 영상 | https://www.youtube.com/watch?v=3yj7KpHMMHw |
 
 ---
